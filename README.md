@@ -3,7 +3,8 @@
 > If you are creating a new custom visual it is highly recommended that you use the new api / tools [learn more](https://github.com/Microsoft/PowerBI-visuals)
 
 
-# Microsoft Power BI visuals Core
+# Microsoft Power BI visuals Core [DEPRECATED]
+> This repository is deprecated. Please use [PowerBI-visuals](https://github.com/Microsoft/PowerBI-visuals) instead.
 
 [![Build status](https://ci.appveyor.com/api/projects/status/blt89rrll3fnc4ia/branch/master?svg=true)](https://ci.appveyor.com/project/powerbi-gitbot/powerbi-visuals-core/branch/master)
 [![Build Status](https://travis-ci.org/Microsoft/PowerBI-visuals-core.svg?branch=master)](https://travis-ci.org/Microsoft/PowerBI-visuals-core)
